@@ -1,4 +1,4 @@
-# DVPL_Converter
+# DVPL Converter Python Edition
 
 Menkonversi file non-DVPL menjadi format DVPL
 
